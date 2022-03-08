@@ -1,8 +1,10 @@
-CheckOut my project site on : reactpropspractice.netlify.app
+CheckOut my project site on : 
+reactpropspractice.netlify.app
 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
